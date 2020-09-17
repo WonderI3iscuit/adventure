@@ -1,0 +1,13 @@
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\obj\Debug\netcoreapp3.1\chooseyourownadventure.csprojAssemblyReference.cache
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\obj\Debug\netcoreapp3.1\chooseyourownadventure.AssemblyInfoInputs.cache
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\obj\Debug\netcoreapp3.1\chooseyourownadventure.AssemblyInfo.cs
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\obj\Debug\netcoreapp3.1\chooseyourownadventure.csproj.CoreCompileInputs.cache
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\bin\Debug\netcoreapp3.1\chooseyourownadventure.exe
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\bin\Debug\netcoreapp3.1\chooseyourownadventure.deps.json
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\bin\Debug\netcoreapp3.1\chooseyourownadventure.runtimeconfig.json
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\bin\Debug\netcoreapp3.1\chooseyourownadventure.runtimeconfig.dev.json
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\bin\Debug\netcoreapp3.1\chooseyourownadventure.dll
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\bin\Debug\netcoreapp3.1\chooseyourownadventure.pdb
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\obj\Debug\netcoreapp3.1\chooseyourownadventure.dll
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\obj\Debug\netcoreapp3.1\chooseyourownadventure.pdb
+C:\Users\mcelhinny_benjamin\source\repos\chooseyourownadventure\chooseyourownadventure\obj\Debug\netcoreapp3.1\chooseyourownadventure.genruntimeconfig.cache
